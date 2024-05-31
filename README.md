@@ -39,5 +39,5 @@ npm run json-server
 The JSON server will be available at http://localhost:3000/persons.
 
 ## Endpoints
-GraphQL Playground: http://localhost:4000/\
-JSON Database: http://localhost:3000/persons
+GraphQL Playground: [http://localhost:4000/](http://localhost:4000/).\  
+JSON Database: [http://localhost:3000/persons](http://localhost:3000/persons).
